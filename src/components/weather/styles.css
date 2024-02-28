@@ -1,0 +1,15 @@
+.container-body{
+    /* background-color: yellow; */
+    margin: auto;    
+    max-width: 40%;
+    min-width: 240px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
